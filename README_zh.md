@@ -1,5 +1,8 @@
 # wechat-claude-code
 
+fork自https://github.com/Wechat-ggGitHub/wechat-claude-code
+支持windows开服务
+
 [English](README.md) | **中文**
 
 一个 [Claude Code](https://claude.ai/claude-code) Skill，将个人微信桥接到本地 Claude Code。通过手机微信与 Claude 对话——文字、图片、权限审批、斜杠命令，全部支持。
